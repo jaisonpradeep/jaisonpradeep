@@ -2,7 +2,7 @@
   <img src="./banner.png" width="100%" alt="Jaison Pradeep Banner">
 </p>
 
-# 👋 Hi, I'm Jaison Pradeep
+# 👋 Hey, I'm <i> Jaison Pradeep! </i>
 
 <h3>🎓 MCA Graduate</h3>
 <h3>💻 MERN Stack Developer | Python Developer</h3>
@@ -34,7 +34,7 @@
 
 
 
-##  <h2>🛠️ TECH STACH </h2>
+##  <h1>🛠️ TECH STACH </h1>
 
 ###  <h2> 💻 LANGUAGES </h2>
 <p>
