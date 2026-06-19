@@ -11,7 +11,7 @@
 
 ---
 
-## ⚡ Skills
+## ⚡<h1> SKILLS </h1>
 
 - **Frontend:** React.js, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## <h1> 🚀 FEATURED PROJECTS </h1>
 
 ⭐ MERN E-Commerce Website  
 ⭐ AI Resume Builder  
@@ -34,38 +34,38 @@
 
 
 
-##  <h2>🛠️ Tech Stack</h2>
+##  <h2>🛠️ TECH STACH </h2>
 
-### 💻 Languages
+### 💻 <h2> LANGUAGES </h2>
 <p>
   <img src="https://skillicons.dev/icons?i=js,python" />
 </p>
 
-### <h2> 🌐 Frontend </h2>
+### <h2> 🌐 FRONTEND </h2>
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,figma" />
 </p>
 
-### ⚙️ <h2> Backend </h2>
+### ⚙️ <h2> BACKEND </h2>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ <h2> Database </h2>
+### 🗄️ <h2> DATABASE </h2>
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
 
 
-## <h2> 📈 GitHub Stats </h2>
+## <h1> 📈 GITHUB STATS </h1>
 
 🔥 Contribution Graph  
 📊 Repository Activity
 
 ---
 
-## <h2> 📫 Connect With Me </h2>
+## <h1> 📫 CONNECT WITH ME </h1>
 
 - LinkedIn: www.linkedin.com/in/jaisonpradeep
 - Portfolio: Coming Soon
