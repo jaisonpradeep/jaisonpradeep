@@ -4,6 +4,16 @@
 
 # 👋 Hey, I'm <i> Jaison Pradeep! </i>
 
+
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Python+Developer;Power+BI+%26+Tableau+Enthusiast;Learning+System+Design+and+AWS)](https://git.io/typing-svg)
+
+</p>
+
+
+
+
 <h3>🎓 MCA Graduate</h3>
 <h3>💻 MERN Stack Developer | Python Developer</h3>
 <h3>📊 Power BI & Tableau Enthusiast</h3>
