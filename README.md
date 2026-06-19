@@ -3,7 +3,7 @@
 </p>
 
 
-<p align="left">
+<p>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Python+Developer;Power+BI+%26+Tableau+Enthusiast;Learning+System+Design+and+AWS)](https://git.io/typing-svg)
 
