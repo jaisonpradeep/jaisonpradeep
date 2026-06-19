@@ -22,12 +22,12 @@
 
 ## <h1> ⚡ SKILLS </h1>
 
-- <h3>**Frontend:** React.js, HTML, CSS, JavaScript </h3>
-- <h3>**Backend:** Node.js, Express.js </h3>
-- <h3>**Database:** MongoDB, MySQL </h3>
-- <h3>**Languages:** JavaScript, Python, SQL </h3>
-- <h3>**Tools:** Git, GitHub, VS Code, Postman </h3>
-- <h3>**Data Analytics:** Power BI, Tableau </h3>
+- <h3>Frontend: React.js, HTML, CSS, JavaScript </h3>
+- <h3>Backend: Node.js, Express.js </h3>
+- <h3>Database: MongoDB, MySQL </h3>
+- <h3>Languages: JavaScript, Python, SQL </h3>
+- <h3>Tools: Git, GitHub, VS Code, Postman </h3>
+- <h3>Data Analytics: Power BI, Tableau </h3>
 
 ---
 
