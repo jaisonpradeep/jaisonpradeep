@@ -41,6 +41,6 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/jaisonpradeep
+- LinkedIn: www.linkedin.com/in/jaisonpradeep
 - Portfolio: Coming Soon
 - Email: jaisonpradeep292002@gmail.com
