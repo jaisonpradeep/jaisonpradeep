@@ -34,38 +34,38 @@
 
 
 
-## 🛠️ <h2 align="center">🛠️ Tech Stack</h2>
+##  <h2>🛠️ Tech Stack</h2>
 
 ### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,python" />
 </p>
 
-### 🌐 Frontend
+### <h2> 🌐 Frontend </h2>
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,figma" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ <h2> Backend </h2>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
+### 🗄️ <h2> Database </h2>
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
 
 
-## 📈 GitHub Stats
+## <h2> 📈 GitHub Stats </h2>
 
 🔥 Contribution Graph  
 📊 Repository Activity
 
 ---
 
-## 📫 Connect With Me
+## <h2> 📫 Connect With Me </h2>
 
 - LinkedIn: www.linkedin.com/in/jaisonpradeep
 - Portfolio: Coming Soon
