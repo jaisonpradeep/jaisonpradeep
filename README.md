@@ -22,22 +22,22 @@
 
 ## <h1> ⚡ SKILLS </h1>
 
-- **Frontend:** React.js, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Languages:** JavaScript, Python, SQL
-- **Tools:** Git, GitHub, VS Code, Postman
-- **Data Analytics:** Power BI, Tableau
+- <h3>**Frontend:** React.js, HTML, CSS, JavaScript </h3>
+- <h3>**Backend:** Node.js, Express.js </h3>
+- <h3>**Database:** MongoDB, MySQL </h3>
+- <h3>**Languages:** JavaScript, Python, SQL </h3>
+- <h3>**Tools:** Git, GitHub, VS Code, Postman </h3>
+- <h3>**Data Analytics:** Power BI, Tableau </h3>
 
 ---
 
 ## <h1> 🚀 FEATURED PROJECTS </h1>
 
-⭐ MERN E-Commerce Website  
-⭐ AI Resume Builder  
-⭐ Portfolio Website  
-⭐ Expense Tracker  
-⭐ REST API with JWT Authentication
+<h3>⭐ MERN E-Commerce Website </h3>
+<h3>⭐ AI Resume Builder   </h3>
+<h3>⭐ Portfolio Website   </h3>
+<h3>⭐ Expense Tracker   </h3>
+<h3>⭐ REST API with JWT Authentication </h3>
 
 ---
 
