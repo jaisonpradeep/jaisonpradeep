@@ -4,10 +4,10 @@
 
 # 👋 Hi, I'm Jaison Pradeep
 
-🎓 MCA Graduate  
-💻 MERN Stack Developer | Python Developer  
-📊 Power BI & Tableau Enthusiast  
-🌱 Currently learning System Design and AWS
+<h3>🎓 MCA Graduate</h3>
+<h3>💻 MERN Stack Developer | Python Developer</h3>
+<h3>📊 Power BI & Tableau Enthusiast</h3>
+<h3>🌱 Currently learning System Design and AWS</h3>
 
 ---
 
@@ -34,7 +34,7 @@
 
 
 
-## 🛠️ Tech Stack
+## 🛠️ <h2 align="center">🛠️ Tech Stack</h2>
 
 ### 💻 Languages
 <p>
