@@ -18,7 +18,6 @@
 <h3>📊 Power BI & Tableau Enthusiast</h3>
 <h3>🌱 Currently learning System Design and AWS</h3>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 ---
 
 ## <h1> ⚡ SKILLS </h1>
