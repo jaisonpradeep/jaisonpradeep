@@ -8,7 +8,6 @@
 
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Jaison%20Pradeep&fontSize=60&animation=fadeIn&fontAlignY=38"/>
 
 
 # 👋 Hey, I'm <i> Jaison Pradeep! </i>
@@ -19,6 +18,8 @@
 <h3>📊 Power BI & Tableau Enthusiast</h3>
 <h3>🌱 Currently learning System Design and AWS</h3>
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Jaison%20Pradeep&fontSize=60&animation=fadeIn&fontAlignY=38"/>
 ---
 
 ## <h1> ⚡ SKILLS </h1>
