@@ -11,7 +11,7 @@
 
 ---
 
-## ⚡<h1> SKILLS </h1>
+## <h1> ⚡ SKILLS </h1>
 
 - **Frontend:** React.js, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
@@ -36,7 +36,7 @@
 
 ##  <h2>🛠️ TECH STACH </h2>
 
-### 💻 <h2> LANGUAGES </h2>
+###  <h2> 💻 LANGUAGES </h2>
 <p>
   <img src="https://skillicons.dev/icons?i=js,python" />
 </p>
@@ -46,12 +46,12 @@
   <img src="https://skillicons.dev/icons?i=react,html,css,figma" />
 </p>
 
-### ⚙️ <h2> BACKEND </h2>
+### <h2> ⚙️ BACKEND </h2>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ <h2> DATABASE </h2>
+###  <h2> 🗄️ DATABASE </h2>
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
