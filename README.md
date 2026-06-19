@@ -2,10 +2,9 @@
   <img src="./banner.png" width="100%" alt="Jaison Pradeep Banner">
 </p>
 
+<p align="center">
 
-<p align = "center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Python+Developer;Power+BI+%26+Tableau+Enthusiast;Learning+System+Design+and+AWS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Python+Developer;Power+BI+%26+Tableau+Enthusiast;Learning+System+Design+and+AWS)](https://git.io/typing-svg)
 
 </p>
 
