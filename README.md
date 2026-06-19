@@ -18,8 +18,7 @@
 <h3>📊 Power BI & Tableau Enthusiast</h3>
 <h3>🌱 Currently learning System Design and AWS</h3>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Jaison%20Pradeep&fontSize=60&animation=fadeIn&fontAlignY=38"/>
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 ---
 
 ## <h1> ⚡ SKILLS </h1>
